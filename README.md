@@ -1,9 +1,7 @@
 ## 🎬 Watch Me Build This Lab!
 
-# create-ticket-servicenow
-A hands on lab demonstrating how to create a ticket in ServiceNow
-
 # ServiceNow Incident Creation Lab
+A hands on lab demonstrating how to create a ticket in ServiceNow
 
 ## Steps Performed
 
