@@ -6,15 +6,19 @@ A hands on lab demonstrating how to create a ticket in ServiceNow
 ## Steps Performed
 
 1. Logged into **ServiceNow**.
-2. Clicked on **All** in the navigation menu.
+2. 
+3. Clicked on **All** in the navigation menu.
 <img width="1920" height="1080" alt="step-1-all-incidents" src="https://github.com/user-attachments/assets/5fdc22e6-f717-49ac-b036-d527b6b6bdf7" />
 
-3. Selected **Incidents** to open the Incident portal.
+
+4. Selected **Incidents** to open the Incident portal.
 <img width="1920" height="1080" alt="step-2-click-new" src="https://github.com/user-attachments/assets/c7f394e1-85b8-481b-afad-1809c63d7873" />
+
 
 4.Clicked **New** on the right-hand side to create a new incident.
 
-6. Filled out the **Short Description** field with:  
+
+5. Filled out the **Short Description** field with:  
    **"test incident : password lockout"**
 <img width="1920" height="1080" alt="step-3-short description-added-submit" src="https://github.com/user-attachments/assets/f62a7578-52f5-4aae-8b3f-502fc608f94d" />
 
