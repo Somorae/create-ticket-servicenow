@@ -8,8 +8,8 @@ https://www.loom.com/share/018b71e8a3eb42e3b4ca7ffb58d5f227
 ## 🧩 Objective 
 A hands on lab demonstrating how to create a ticket in ServiceNow
 
-## 🧰 Tools USed 
-1. ServiceNOW
+## 🧰 Tools Used 
+- ServiceNOW
    
 ## 🪜 Steps Performed
 
