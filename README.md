@@ -5,13 +5,13 @@ https://www.loom.com/share/018b71e8a3eb42e3b4ca7ffb58d5f227
 
 # ServiceNow Incident Creation Lab
 
-## Objective 
+## 🧩 Objective 
 A hands on lab demonstrating how to create a ticket in ServiceNow
 
-## Tools USed 
+## 🧰 Tools USed 
 1. ServiceNOW
    
-## Steps Performed
+## 🪜 Steps Performed
 
 1. Logged into **ServiceNow**.
 2.  Clicked on **All** in the navigation menu.
@@ -30,6 +30,6 @@ A hands on lab demonstrating how to create a ticket in ServiceNow
 <img width="1920" height="990" alt="step-3-short description-added-submit" src="https://github.com/user-attachments/assets/1d5f0297-174a-4956-9ca8-e7e136cea861" />
 
 
-## Outcome
+## ✅ Outcome
 
 A new incident was created in ServiceNow by navigating to the incident module and completing the short description field. This demonstrates the basic process of creating an incident ticket in the ServiceNow platform.
