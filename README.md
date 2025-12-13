@@ -1,5 +1,5 @@
 ## 🎬 Watch Me Build This Lab!
-[![Watch the video](<img width="486" height="30" alt="service now loom link" src="https://github.com/user-attachments/assets/16b69f67-35f7-43d6-83e1-c4280e90efaa" />)](link_to_your_loom_video)
+[![Watch the video](https://www.loom.com/share/018b71e8a3eb42e3b4ca7ffb58d5f227)](link_to_your_loom_video)
 
 
 
