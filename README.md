@@ -1,4 +1,6 @@
 ## 🎬 Watch Me Build This Lab!
+<img width="486" height="30" alt="service now loom link" src="https://github.com/user-attachments/assets/41a227e1-3080-4b69-9e97-88557183cd70" />
+
 
 # ServiceNow Incident Creation Lab
 A hands on lab demonstrating how to create a ticket in ServiceNow
