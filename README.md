@@ -1,5 +1,6 @@
 ## 🎬 Watch Me Build This Lab!
-<img width="486" height="30" alt="service now loom link" src="https://github.com/user-attachments/assets/41a227e1-3080-4b69-9e97-88557183cd70" />
+[![Watch the video](<img width="486" height="30" alt="service now loom link" src="https://github.com/user-attachments/assets/16b69f67-35f7-43d6-83e1-c4280e90efaa" />)](link_to_your_loom_video)
+
 
 
 # ServiceNow Incident Creation Lab
