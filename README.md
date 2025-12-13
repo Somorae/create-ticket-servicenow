@@ -1,7 +1,5 @@
 ## 🎬 Watch Me Build This Lab!
-
-[<Insert-Loom-VideoLink-Here>
-](https://www.loom.com/share/018b71e8a3eb42e3b4ca7ffb58d5f227)
+https://www.loom.com/share/018b71e8a3eb42e3b4ca7ffb58d5f227
 
 
 # ServiceNow Incident Creation Lab
