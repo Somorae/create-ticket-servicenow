@@ -11,8 +11,10 @@ A hands on lab demonstrating how to create a ticket in ServiceNow
 <img width="1920" height="990" alt="step-1-all-incidents" src="https://github.com/user-attachments/assets/f9545509-9a57-4640-80d8-d9a253d76f6b" />
 
 
+
 4.Clicked **New** on the right-hand side to create a new incident.
 <img width="1918" height="451" alt="step-2-click-new2" src="https://github.com/user-attachments/assets/310233a4-2d4d-4c8c-a4fe-58155e934bce" />
+
 
 
 5. Filled out the **Short Description** field with:  
