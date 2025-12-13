@@ -30,6 +30,9 @@ A hands on lab demonstrating how to create a ticket in ServiceNow
 <img width="1920" height="990" alt="step-3-short description-added-submit" src="https://github.com/user-attachments/assets/1d5f0297-174a-4956-9ca8-e7e136cea861" />
 
 
+
+6. Clicked on Submit to create a new incident.
+
 ## ✅ Outcome
 
 A new incident was created in ServiceNow by navigating to the incident module and completing the short description field. This demonstrates the basic process of creating an incident ticket in the ServiceNow platform.
